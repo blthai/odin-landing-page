@@ -11,6 +11,7 @@ body {
   background-color: #1F2937;
   display: flex;
   flex-direction: column;
+  flex:1;
 }
 
 .header {
@@ -190,5 +191,15 @@ h2 {
 
 .enlist-subtext {
   color: #E5E7EB;
+  font-size: 18px;
+}
+
+.footer {
+  background-color: #1F2937;
+  color: #E5E7EB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 48px;
   font-size: 18px;
 }
