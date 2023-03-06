@@ -6,6 +6,7 @@ Credit for all of the images used on the website goes to the user "Antdude3001" 
 
 Here are the links to the images used from Antdude3001's photostream. 
 
+Civil War Group Photo - https://www.flickr.com/photos/antdude3001/23904948436/
 Antman - https://www.flickr.com/photos/antdude3001/24969800074/
 Bucky Barnes - https://www.flickr.com/photos/antdude3001/25600281415/in/photostream/
 Captain America - https://www.flickr.com/photos/antdude3001/25232754449/
@@ -16,6 +17,6 @@ Wanda - https://www.flickr.com/photos/antdude3001/25232754679/in/photostream/
 Here is the link to the creative commons license that is also linked in the bottom right of the webpages of the links listed above.
 https://creativecommons.org/licenses/by-sa/2.0/
 
-The images used have not been modified from their original state on Antdude3001's flickr page.
+The images used have been slightly cropped from their original state on Antdude3001's flickr page.
 
 Thank you for providing these free public images Antdude3001!
