@@ -1,6 +1,3 @@
-/* 
-Check blue box bottom
-*/
 body {
   display: flex;
   flex-direction: column;
@@ -11,7 +8,6 @@ body {
   background-color: #1F2937;
   display: flex;
   flex-direction: column;
-  flex:1;
 }
 
 .header {
