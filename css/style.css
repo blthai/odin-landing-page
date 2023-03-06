@@ -1,5 +1,5 @@
 /* 
-It's not enough to be against something. You have to be for something better." - Tony Stark, Captain America: Civil War
+Check blue box bottom
 */
 body {
   display: flex;
@@ -92,3 +92,45 @@ h1 {
    border-color: #2778fa;
 }
 
+.middle-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1F2937;
+  margin-bottom: 64px;
+}
+
+
+
+.side-profile {
+  height: 180px;
+  width: 180px;
+  object-fit: cover;
+  border: 4px solid rgb(32, 115, 240);
+  border-radius: 16px;
+}
+
+.profile-subtext {
+  max-width: 180px;
+  text-align: center;
+  color: rgb(95, 93, 93);
+}
+
+
+.avenger-lineup {
+  display: flex;
+  justify-content: center;
+  gap: 48px;
+  flex-wrap: wrap;
+  
+}
+
+.side-profile {
+  margin-bottom: 16px;
+}
